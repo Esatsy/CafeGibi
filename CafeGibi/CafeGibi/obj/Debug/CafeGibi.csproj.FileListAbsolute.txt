@@ -1,0 +1,14 @@
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\bin\Debug\CafeGibi.exe.config
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\bin\Debug\CafeGibi.exe
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\bin\Debug\CafeGibi.pdb
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\obj\Debug\CafeGibi.csproj.AssemblyReference.cache
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\obj\Debug\CafeGibi.frmGiris.resources
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\obj\Debug\CafeGibi.Properties.Resources.resources
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\obj\Debug\CafeGibi.csproj.GenerateResource.cache
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\obj\Debug\CafeGibi.csproj.CoreCompileInputs.cache
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\obj\Debug\CafeGibi.exe
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\obj\Debug\CafeGibi.pdb
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\obj\Debug\CafeGibi.frmMenu.resources
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\obj\Debug\CafeGibi.frmMasalar.resources
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\obj\Debug\CafeGibi.frmPaketServis.resources
+C:\Users\NAVAHO\Desktop\Cafe Gibi Otomasyon\CafeGibi\CafeGibi\obj\Debug\CafeGibi.frmBill.resources
